@@ -1,4 +1,5 @@
-#### javascript-filter-function
+# javascript-filter-function
+
 ```javascript
 var cities = [
     {name: 'Los Angeles', population: '3799621',child: [{id: "child-1"}]},
